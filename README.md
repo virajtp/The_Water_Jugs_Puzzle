@@ -9,10 +9,10 @@ At the beginning both vessels are empty. The following operations are counted as
 ● filling a vessel,
 ● pouring water from one jug to the other, without spilling, until one of the jugs is either full or empty.
 
-Input
+Input - 
 Three positive integers a, b, c, not larger than 40000 separated by spaces.
 
-Output
+Output - 
 The steps that are required to obtain c litres in the following format, or -1 if this is
 impossible.
 
