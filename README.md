@@ -13,6 +13,7 @@ Three positive integers a, b, c, not larger than 40000 separated by spaces.
 Output
 The steps that are required to obtain c litres in the following format, or -1 if this is
 impossible.
+
 Example 1:
 Input: 3 5 4
 Output: (0, 0) > (3, 0) > (0, 3) > (3, 3) > (1, 5) > (1, 0) > (0, 1) > (3, 1) > (0, 4)
